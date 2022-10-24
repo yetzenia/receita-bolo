@@ -1,0 +1,45 @@
+h1{
+ color: #FFB300;
+}
+h1{text-align: left;
+font: normal normal 900 89px/79px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;}
+p{text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+  
+}
+
+section,ol{
+  text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+h2,nav{
+  text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+footer{
+  text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+
+body{
+  background-color: #63C5CF;
+}
+
